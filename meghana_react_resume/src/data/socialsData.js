@@ -1,5 +1,5 @@
 export const socialsData = {
-    github: 'https://github.com/MeghanaP7/git-demo.git',
+    github: 'https://github.com/MeghanaP7/JPR-Inc.in',
     // facebook: 'https://www.facebook.com',
     linkedIn: 'https://www.linkedin.com/in/meghana-p-a1823b266/',
     // instagram: 'https://www.instagram.com/',
