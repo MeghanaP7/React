@@ -3,7 +3,7 @@ export const experienceData = [
         id: 1,
         company: 'JPR-Inc.',
         jobtitle: 'Associate Software Engineer',
-        startYear: '2020',
+        startYear: '2021',
         endYear: 'present',
         experience: 'Working as a Full stack web developer in the e-learning platform on Mentors and Mentees module, with responsibilities for developing different features and custom solutions for business needs'
     },
